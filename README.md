@@ -61,23 +61,23 @@ Created charts to identify trends and workforce patterns.
 
 ## Key Insights
 
-### Attrition Distribution
+### 1. Attrition Distribution
 - Out of 1,470 employees, 237 employees left the organization while 1,233 employees remained.
 - The overall attrition rate is relatively low, indicating strong employee retention.
 
-### Attrition by Department
+### 2. Attrition by Department
 - Research & Development and Sales departments account for the majority of employee turnover.
 - Human Resources has the lowest attrition count among all departments.
 
-### Employee Age Distribution
+### 3. Employee Age Distribution
 - Most employees belong to the 30–40 age group.
 - The workforce is primarily composed of mid-career professionals.
 
-### Average Salary by Department
+### 4. Average Salary by Department
 - Sales employees have the highest average monthly income.
 - Salary levels vary across departments and may influence retention.
 
-### Job Satisfaction vs Attrition
+### 5. Job Satisfaction vs Attrition
 - Employees with lower job satisfaction show higher attrition.
 - Higher job satisfaction is associated with better employee retention.
 

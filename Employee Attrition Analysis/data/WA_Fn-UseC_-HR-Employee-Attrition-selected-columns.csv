@@ -1,0 +1,1471 @@
+Age,Attrition,Department,JobSatisfaction,MonthlyIncome
+41,Yes,Sales,4,5993
+49,No,Research & Development,2,5130
+37,Yes,Research & Development,3,2090
+33,No,Research & Development,3,2909
+27,No,Research & Development,2,3468
+32,No,Research & Development,4,3068
+59,No,Research & Development,1,2670
+30,No,Research & Development,3,2693
+38,No,Research & Development,3,9526
+36,No,Research & Development,3,5237
+35,No,Research & Development,2,2426
+29,No,Research & Development,3,4193
+31,No,Research & Development,3,2911
+34,No,Research & Development,4,2661
+28,Yes,Research & Development,3,2028
+29,No,Research & Development,1,9980
+32,No,Research & Development,2,3298
+22,No,Research & Development,4,2935
+53,No,Sales,4,15427
+38,No,Research & Development,4,3944
+24,No,Research & Development,3,4011
+36,Yes,Sales,1,3407
+34,No,Research & Development,2,11994
+21,No,Research & Development,4,1232
+34,Yes,Research & Development,1,2960
+53,No,Research & Development,3,19094
+32,Yes,Research & Development,1,3919
+42,No,Sales,2,6825
+44,No,Research & Development,4,10248
+46,No,Sales,1,18947
+33,No,Research & Development,4,2496
+44,No,Research & Development,4,6465
+30,No,Research & Development,3,2206
+39,Yes,Sales,4,2086
+24,Yes,Research & Development,4,2293
+43,No,Research & Development,3,2645
+50,Yes,Sales,3,2683
+35,No,Sales,4,2014
+36,No,Research & Development,1,3419
+33,No,Sales,1,5376
+35,No,Research & Development,4,1951
+27,No,Research & Development,1,2341
+26,Yes,Research & Development,3,2293
+27,No,Sales,3,8726
+30,No,Research & Development,4,4011
+41,Yes,Research & Development,3,19545
+34,No,Sales,3,4568
+37,No,Research & Development,2,3022
+46,No,Sales,4,5772
+35,No,Research & Development,4,2269
+48,Yes,Research & Development,3,5381
+28,Yes,Research & Development,3,3441
+44,No,Sales,1,5454
+35,No,Research & Development,1,9884
+26,No,Sales,4,4157
+33,No,Research & Development,4,13458
+35,No,Sales,1,9069
+35,No,Research & Development,1,4014
+31,No,Research & Development,4,5915
+37,No,Research & Development,3,5993
+32,No,Research & Development,4,6162
+38,No,Research & Development,4,2406
+50,No,Research & Development,3,18740
+59,No,Sales,1,7637
+36,No,Research & Development,3,10096
+55,No,Research & Development,3,14756
+36,No,Research & Development,2,6499
+45,No,Research & Development,1,9724
+35,No,Research & Development,1,2194
+36,Yes,Research & Development,3,3388
+59,No,Sales,3,5473
+29,No,Research & Development,2,2703
+31,No,Research & Development,2,2501
+32,No,Research & Development,2,6220
+36,No,Research & Development,4,3038
+31,No,Research & Development,4,4424
+35,No,Sales,1,4312
+45,No,Research & Development,1,13245
+37,No,Research & Development,3,13664
+46,No,Human Resources,2,5021
+30,No,Research & Development,4,5126
+35,No,Research & Development,3,2859
+55,No,Sales,4,10239
+38,No,Research & Development,4,5329
+34,No,Research & Development,2,4325
+56,No,Research & Development,4,7260
+23,No,Sales,1,2322
+51,No,Research & Development,4,2075
+30,No,Research & Development,4,4152
+46,Yes,Sales,4,9619
+40,No,Research & Development,2,13503
+51,No,Sales,4,5441
+30,No,Sales,2,5209
+46,No,Research & Development,1,10673
+32,No,Sales,3,5010
+54,No,Research & Development,3,13549
+24,No,Sales,3,4999
+28,No,Sales,3,4221
+58,No,Sales,3,13872
+44,No,Research & Development,2,2042
+37,Yes,Human Resources,1,2073
+32,No,Research & Development,1,2956
+20,Yes,Research & Development,4,2926
+34,No,Research & Development,3,4809
+37,No,Research & Development,4,5163
+59,No,Human Resources,4,18844
+50,No,Research & Development,2,18172
+25,Yes,Sales,3,5744
+25,No,Research & Development,4,2889
+22,No,Research & Development,4,2871
+51,No,Research & Development,1,7484
+34,Yes,Research & Development,3,6074
+54,No,Human Resources,4,17328
+24,No,Research & Development,3,2774
+34,No,Research & Development,2,4505
+37,No,Sales,4,7428
+34,No,Research & Development,1,11631
+36,No,Sales,4,9738
+36,No,Research & Development,4,2835
+43,No,Sales,4,16959
+30,No,Research & Development,3,2613
+33,No,Sales,2,6146
+56,Yes,Research & Development,2,4963
+51,No,Research & Development,3,19537
+31,Yes,Sales,3,6172
+26,No,Research & Development,2,2368
+58,Yes,Research & Development,4,10312
+19,Yes,Sales,3,1675
+22,No,Research & Development,4,2523
+49,No,Research & Development,1,6567
+43,No,Research & Development,3,4739
+50,No,Sales,4,9208
+31,Yes,Sales,3,4559
+41,No,Sales,3,8189
+26,No,Human Resources,3,2942
+36,No,Research & Development,2,4941
+51,Yes,Research & Development,4,10650
+39,No,Sales,3,5902
+25,No,Sales,3,8639
+30,No,Human Resources,4,6347
+32,Yes,Research & Development,1,4200
+45,No,Research & Development,4,3452
+38,No,Research & Development,3,4317
+30,No,Research & Development,3,2632
+32,No,Sales,4,4668
+30,No,Research & Development,1,3204
+30,No,Research & Development,4,2720
+41,No,Research & Development,1,17181
+41,No,Research & Development,1,2238
+19,No,Research & Development,2,1483
+40,No,Research & Development,2,5605
+35,No,Sales,2,7295
+53,No,Sales,3,2306
+45,No,Research & Development,2,2348
+32,No,Sales,4,8998
+29,No,Research & Development,3,4319
+51,No,Research & Development,3,6132
+58,No,Research & Development,2,3346
+40,No,Sales,4,10855
+34,No,Sales,3,2231
+22,No,Research & Development,4,2323
+27,No,Research & Development,2,2024
+28,No,Research & Development,4,2713
+57,No,Research & Development,4,9439
+27,No,Research & Development,3,2566
+50,No,Research & Development,2,19926
+41,No,Research & Development,3,2451
+30,No,Sales,4,9419
+38,No,Sales,4,8686
+32,No,Research & Development,3,3038
+27,No,Research & Development,2,3058
+19,Yes,Sales,1,2325
+36,No,Research & Development,2,2088
+30,No,Research & Development,1,3072
+45,No,Sales,1,5006
+56,No,Research & Development,1,4257
+33,No,Research & Development,4,2500
+19,Yes,Research & Development,4,1102
+46,No,Sales,1,10453
+38,No,Research & Development,4,2288
+31,No,Research & Development,4,3929
+34,No,Research & Development,2,2311
+41,Yes,Sales,2,3140
+50,No,Research & Development,3,3690
+53,No,Research & Development,1,4450
+33,No,Research & Development,2,2756
+40,No,Research & Development,3,19033
+55,No,Research & Development,2,18722
+34,No,Research & Development,3,9547
+51,No,Research & Development,2,13734
+52,No,Research & Development,3,19999
+27,No,Research & Development,2,2279
+35,Yes,Research & Development,3,5916
+43,No,Research & Development,4,2089
+45,No,Research & Development,4,16792
+37,No,Research & Development,1,3564
+35,No,Research & Development,2,4425
+42,No,Research & Development,3,5265
+38,No,Research & Development,3,6553
+38,No,Research & Development,4,6261
+27,No,Research & Development,1,4298
+49,No,Research & Development,4,6804
+34,No,Research & Development,3,3815
+40,No,Research & Development,4,2741
+38,Yes,Research & Development,1,6673
+29,Yes,Sales,4,7639
+22,No,Research & Development,2,2328
+36,No,Research & Development,4,2153
+40,No,Research & Development,4,4876
+46,No,Research & Development,1,9396
+32,Yes,Sales,4,10400
+30,No,Research & Development,3,8474
+27,No,Sales,3,9981
+51,No,Research & Development,2,12490
+30,Yes,Research & Development,1,2657
+41,No,Sales,4,13591
+30,Yes,Sales,1,6696
+29,Yes,Research & Development,3,2058
+45,No,Sales,4,8865
+54,No,Sales,1,5940
+36,No,Research & Development,2,5914
+33,No,Research & Development,2,2622
+37,No,Research & Development,4,12185
+38,No,Sales,3,10609
+31,No,Research & Development,3,4345
+59,No,Research & Development,4,2177
+37,No,Sales,4,2793
+29,No,Sales,4,7918
+35,No,Sales,3,8789
+29,Yes,Research & Development,4,2389
+52,No,Research & Development,4,3212
+42,No,Research & Development,4,19232
+59,No,Human Resources,3,2267
+50,No,Sales,4,19517
+33,Yes,Research & Development,4,2436
+43,No,Sales,4,16064
+33,Yes,Research & Development,1,2707
+52,No,Sales,3,19068
+32,No,Sales,2,3931
+32,Yes,Research & Development,3,3730
+39,No,Research & Development,3,2232
+32,No,Sales,4,4465
+41,No,Research & Development,1,3072
+40,No,Research & Development,4,3319
+45,No,Research & Development,4,19202
+31,No,Research & Development,3,13675
+33,No,Research & Development,4,2911
+34,No,Research & Development,1,5957
+37,No,Research & Development,1,3920
+45,No,Research & Development,3,6434
+37,Yes,Research & Development,3,10048
+39,No,Research & Development,3,10938
+29,No,Research & Development,4,2340
+42,No,Research & Development,1,6545
+29,No,Sales,4,6931
+25,No,Research & Development,3,4898
+42,No,Research & Development,1,2593
+40,No,Research & Development,3,19436
+51,No,Research & Development,4,2723
+31,Yes,Research & Development,2,3479
+32,No,Research & Development,2,2794
+38,No,Sales,4,5249
+32,No,Research & Development,1,2176
+46,No,Sales,2,16872
+28,Yes,Research & Development,3,3485
+29,No,Sales,2,6644
+31,No,Research & Development,4,5582
+25,No,Research & Development,1,4000
+45,No,Research & Development,4,13496
+36,No,Research & Development,4,3210
+55,No,Research & Development,1,19045
+47,Yes,Research & Development,2,11849
+28,No,Research & Development,4,2070
+37,No,Sales,4,6502
+21,No,Research & Development,3,3230
+37,No,Research & Development,4,13603
+35,No,Research & Development,2,11996
+38,No,Sales,1,5605
+26,No,Research & Development,2,6397
+50,No,Research & Development,2,19144
+53,No,Research & Development,3,17584
+42,No,Sales,3,4907
+29,No,Sales,4,4554
+55,No,Research & Development,4,5415
+26,No,Research & Development,1,4741
+37,No,Research & Development,4,2115
+44,Yes,Research & Development,3,3161
+38,No,Research & Development,4,5745
+26,Yes,Research & Development,2,2373
+28,No,Research & Development,4,3310
+49,No,Research & Development,1,18665
+36,No,Research & Development,2,4485
+31,No,Sales,2,2789
+26,Yes,Sales,4,5828
+37,No,Research & Development,4,2326
+42,No,Sales,2,13525
+18,Yes,Research & Development,3,1420
+35,No,Sales,2,8020
+36,No,Research & Development,4,3688
+51,No,Research & Development,2,5482
+41,No,Sales,2,16015
+18,No,Sales,3,1200
+28,No,Research & Development,1,5661
+31,No,Sales,4,6929
+39,No,Research & Development,4,9613
+36,No,Research & Development,2,5674
+32,No,Sales,3,5484
+38,No,Research & Development,2,12061
+58,No,Research & Development,3,5660
+31,No,Research & Development,4,4821
+31,No,Human Resources,1,6410
+45,No,Research & Development,1,5210
+31,No,Research & Development,4,2695
+33,No,Research & Development,2,11878
+39,No,Research & Development,1,17068
+43,No,Research & Development,4,2455
+49,No,Research & Development,3,13964
+52,Yes,Research & Development,2,4941
+27,No,Research & Development,2,2478
+32,No,Sales,2,5228
+27,No,Sales,3,4478
+31,No,Sales,4,7547
+32,No,Research & Development,4,5055
+28,Yes,Research & Development,4,3464
+30,No,Research & Development,4,5775
+31,No,Research & Development,3,8943
+39,No,Research & Development,4,19272
+39,Yes,Sales,3,5238
+33,No,Sales,4,4682
+47,No,Research & Development,3,18300
+43,No,Research & Development,3,5257
+27,No,Sales,2,6349
+54,No,Research & Development,3,4869
+43,No,Research & Development,1,9985
+45,No,Research & Development,4,3697
+40,No,Sales,4,7457
+29,Yes,Research & Development,1,2119
+29,No,Research & Development,4,3983
+30,No,Sales,3,6118
+27,No,Sales,2,6214
+37,No,Research & Development,4,6347
+38,No,Research & Development,4,11510
+31,No,Research & Development,4,7143
+29,No,Sales,2,8268
+35,No,Research & Development,2,8095
+23,No,Research & Development,4,2904
+41,No,Research & Development,2,6032
+47,No,Sales,3,2976
+42,No,Research & Development,4,15992
+29,No,Sales,3,4649
+42,No,Human Resources,3,2696
+32,No,Research & Development,2,2370
+48,No,Sales,3,12504
+37,No,Research & Development,1,5974
+30,No,Sales,3,4736
+26,No,Sales,3,5296
+42,No,Research & Development,4,6781
+21,Yes,Sales,2,2174
+36,No,Sales,4,6653
+36,No,Sales,4,9699
+57,No,Research & Development,3,6755
+40,No,Research & Development,3,2213
+21,No,Sales,4,2610
+33,Yes,Sales,3,2851
+37,No,Research & Development,1,3452
+46,No,Research & Development,3,5258
+41,Yes,Sales,2,9355
+50,No,Research & Development,4,10496
+40,Yes,Sales,3,6380
+31,No,Research & Development,2,2657
+21,Yes,Sales,2,2716
+29,No,Research & Development,4,2201
+35,No,Research & Development,2,6540
+27,No,Research & Development,2,3816
+28,No,Sales,4,5253
+49,No,Research & Development,3,10965
+51,No,Sales,4,4936
+36,No,Research & Development,3,2543
+34,Yes,Sales,4,5304
+55,No,Research & Development,4,16659
+24,No,Sales,3,4260
+30,No,Sales,2,2476
+26,Yes,Research & Development,1,3102
+22,No,Research & Development,2,2244
+36,No,Sales,3,7596
+30,Yes,Research & Development,4,2285
+37,No,Research & Development,1,3034
+40,No,Sales,2,5715
+42,No,Research & Development,1,2576
+37,No,Research & Development,2,4197
+43,No,Research & Development,2,14336
+40,No,Research & Development,3,3448
+54,No,Research & Development,1,19406
+34,No,Sales,3,6538
+31,No,Research & Development,1,4306
+43,No,Research & Development,4,2258
+43,No,Research & Development,3,4522
+25,No,Sales,4,4487
+37,No,Research & Development,3,4449
+31,No,Research & Development,1,2218
+39,No,Research & Development,3,19197
+56,No,Sales,1,13212
+30,No,Sales,3,6577
+41,No,Sales,1,8392
+28,No,Research & Development,1,4558
+25,Yes,Research & Development,1,4031
+52,No,Research & Development,3,7969
+45,No,Research & Development,4,2654
+52,No,Research & Development,4,16555
+42,No,Research & Development,3,4556
+30,No,Research & Development,4,6091
+60,No,Research & Development,1,19566
+46,No,Research & Development,3,4810
+42,No,Research & Development,4,4523
+24,Yes,Sales,2,3202
+34,Yes,Sales,3,2351
+38,No,Research & Development,4,1702
+40,No,Sales,3,18041
+26,No,Research & Development,4,2886
+30,No,Research & Development,4,2097
+29,No,Research & Development,3,11935
+29,Yes,Research & Development,2,2546
+19,Yes,Human Resources,4,2564
+30,No,Sales,1,8412
+57,No,Sales,4,14118
+50,No,Research & Development,3,17046
+30,No,Research & Development,4,2564
+60,No,Sales,1,10266
+47,No,Research & Development,4,5070
+46,No,Research & Development,3,17861
+35,No,Research & Development,3,4230
+54,No,Research & Development,3,3780
+34,No,Research & Development,3,2768
+46,No,Sales,4,9071
+31,No,Research & Development,2,10648
+33,Yes,Research & Development,3,13610
+33,Yes,Research & Development,4,3408
+30,No,Sales,2,2983
+35,No,Research & Development,3,7632
+31,Yes,Research & Development,3,9824
+34,Yes,Human Resources,1,9950
+42,No,Research & Development,3,2093
+36,No,Sales,4,9980
+22,Yes,Research & Development,3,3894
+48,No,Sales,4,4051
+55,No,Sales,2,16835
+41,No,Sales,4,6230
+35,No,Sales,3,4717
+40,No,Research & Development,3,13237
+39,No,Research & Development,3,3755
+31,No,Sales,4,6582
+42,No,Research & Development,1,7406
+45,No,Sales,2,4805
+26,Yes,Human Resources,3,2741
+29,No,Research & Development,4,4262
+33,No,Research & Development,3,16184
+31,No,Sales,4,11557
+18,Yes,Sales,2,1878
+40,No,Sales,1,10932
+41,No,Research & Development,3,6811
+26,No,Sales,3,4306
+35,No,Sales,3,4859
+34,No,Sales,4,5337
+26,Yes,Research & Development,4,2340
+37,No,Research & Development,4,7491
+46,No,Research & Development,3,10527
+41,No,Sales,1,16595
+37,No,Sales,2,8834
+52,No,Research & Development,1,5577
+32,Yes,Sales,3,4707
+24,No,Sales,4,2400
+38,No,Research & Development,3,9824
+37,No,Research & Development,2,6447
+49,No,Research & Development,3,19502
+24,No,Research & Development,4,2725
+26,No,Sales,2,6272
+24,No,Research & Development,2,2127
+50,No,Human Resources,2,18200
+25,No,Sales,3,2096
+24,Yes,Research & Development,3,2886
+30,Yes,Sales,1,2033
+34,No,Research & Development,4,3622
+31,Yes,Sales,1,4233
+35,No,Research & Development,4,3681
+31,No,Sales,4,5460
+27,No,Research & Development,3,2187
+37,No,Sales,3,9602
+20,No,Research & Development,2,2836
+42,No,Research & Development,4,4089
+43,No,Research & Development,4,16627
+38,No,Research & Development,1,2619
+43,No,Research & Development,3,5679
+48,No,Research & Development,1,15402
+44,No,Human Resources,3,5985
+34,No,Sales,3,2579
+27,Yes,Sales,1,3041
+21,No,Sales,3,3447
+44,No,Research & Development,4,19513
+22,No,Research & Development,3,2773
+33,No,Sales,3,7104
+32,No,Research & Development,4,6322
+30,No,Research & Development,3,2083
+53,No,Sales,1,8381
+34,No,Research & Development,4,2691
+45,Yes,Sales,1,4286
+26,No,Research & Development,4,2659
+37,No,Research & Development,3,9434
+29,No,Sales,3,5561
+35,No,Research & Development,4,6646
+33,No,Research & Development,4,7725
+54,No,Human Resources,2,10725
+36,No,Research & Development,2,8847
+27,No,Research & Development,4,2045
+20,Yes,Research & Development,3,1009
+33,Yes,Research & Development,1,3348
+35,No,Research & Development,3,1281
+23,No,Research & Development,1,2819
+25,No,Sales,2,4851
+38,No,Sales,4,4028
+29,No,Research & Development,4,2720
+48,No,Sales,2,8120
+27,No,Sales,4,4647
+37,No,Research & Development,4,4680
+50,No,Research & Development,3,3221
+34,No,Research & Development,2,8621
+24,Yes,Sales,3,4577
+39,No,Research & Development,3,4553
+32,No,Sales,4,5396
+50,Yes,Sales,3,6796
+38,No,Research & Development,4,7625
+27,No,Research & Development,1,7412
+32,No,Research & Development,4,11159
+47,No,Sales,1,4960
+40,No,Sales,1,10475
+53,No,Research & Development,3,14814
+41,No,Human Resources,4,19141
+60,No,Sales,1,5405
+27,No,Research & Development,1,8793
+41,No,Human Resources,3,19189
+50,No,Sales,2,3875
+28,Yes,Research & Development,2,2216
+36,No,Research & Development,1,11713
+38,No,Research & Development,3,7861
+44,No,Research & Development,3,3708
+47,No,Sales,3,13770
+30,No,Sales,4,5304
+29,No,Sales,3,2642
+42,Yes,Research & Development,3,2759
+43,No,Sales,4,6804
+34,No,Research & Development,3,6142
+23,No,Research & Development,1,2500
+39,No,Human Resources,2,6389
+56,No,Research & Development,4,11103
+40,No,Research & Development,4,2342
+27,No,Research & Development,1,6811
+29,No,Sales,2,2297
+53,No,Research & Development,4,2450
+35,No,Research & Development,1,5093
+32,No,Research & Development,4,5309
+38,No,Research & Development,3,3057
+34,No,Research & Development,1,5121
+52,No,Sales,1,16856
+33,Yes,Research & Development,4,2686
+25,No,Sales,4,6180
+45,No,Sales,3,6632
+23,No,Research & Development,3,3505
+47,Yes,Sales,3,6397
+34,No,Sales,4,6274
+55,Yes,Research & Development,1,19859
+36,No,Sales,1,7587
+52,No,Research & Development,4,4258
+26,No,Research & Development,4,4364
+29,No,Research & Development,3,4335
+26,Yes,Sales,1,5326
+34,No,Research & Development,4,3280
+54,No,Research & Development,1,5485
+27,No,Sales,4,4342
+37,No,Research & Development,1,2782
+38,No,Research & Development,1,5980
+34,No,Research & Development,1,4381
+35,No,Sales,4,2572
+30,No,Research & Development,3,3833
+40,No,Research & Development,2,4244
+34,No,Sales,1,6500
+42,No,Research & Development,4,18430
+23,Yes,Research & Development,1,1601
+24,No,Research & Development,2,2694
+52,No,Research & Development,3,3149
+50,No,Research & Development,3,17639
+29,Yes,Research & Development,1,2319
+33,No,Research & Development,3,11691
+33,Yes,Sales,1,5324
+47,No,Research & Development,4,16752
+36,No,Research & Development,2,5228
+29,No,Research & Development,3,2700
+58,Yes,Research & Development,2,19246
+35,No,Research & Development,3,2506
+42,No,Research & Development,4,6062
+28,Yes,Research & Development,3,4382
+36,No,Human Resources,2,2143
+32,No,Research & Development,3,6162
+40,No,Research & Development,3,5094
+30,No,Research & Development,4,6877
+45,No,Research & Development,3,2274
+42,No,Research & Development,2,4434
+38,No,Research & Development,1,6288
+34,No,Research & Development,4,2553
+49,Yes,Sales,4,7654
+55,Yes,Sales,4,5160
+43,No,Research & Development,1,17159
+27,No,Research & Development,4,12808
+35,No,Research & Development,3,10221
+28,No,Sales,2,4779
+34,No,Human Resources,4,3737
+26,Yes,Research & Development,3,2366
+27,No,Research & Development,4,1706
+51,No,Sales,3,16307
+44,No,Research & Development,2,5933
+25,No,Research & Development,1,3424
+33,No,Sales,1,4037
+35,No,Research & Development,1,2559
+36,No,Sales,4,6201
+32,No,Sales,4,4403
+30,No,Research & Development,4,3761
+53,No,Sales,4,10934
+45,No,Sales,1,10761
+32,No,Research & Development,3,5175
+52,No,Research & Development,4,13826
+37,No,Sales,3,6334
+28,No,Human Resources,4,4936
+22,No,Research & Development,4,4775
+44,No,Research & Development,4,2818
+42,No,Research & Development,4,2515
+36,No,Human Resources,1,2342
+25,No,Sales,1,4194
+35,No,Research & Development,3,10685
+35,Yes,Research & Development,2,2022
+32,No,Research & Development,4,2314
+25,No,Sales,1,4256
+49,No,Research & Development,1,3580
+24,No,Research & Development,4,3162
+32,No,Sales,2,6524
+38,No,Sales,2,2899
+42,No,Research & Development,4,5231
+31,No,Research & Development,4,2356
+29,Yes,Sales,3,2800
+53,No,Sales,4,11836
+35,No,Research & Development,2,10903
+37,No,Sales,4,2973
+53,No,Research & Development,4,14275
+43,No,Research & Development,4,5562
+47,No,Sales,4,4537
+37,No,Sales,2,7642
+50,No,Research & Development,1,17924
+39,No,Human Resources,4,5204
+33,No,Human Resources,2,2277
+32,Yes,Research & Development,4,2795
+29,No,Research & Development,4,2532
+44,No,Research & Development,1,2559
+28,No,Sales,4,4908
+58,Yes,Research & Development,4,2380
+43,No,Research & Development,2,4765
+20,Yes,Sales,3,2044
+21,Yes,Research & Development,4,2693
+36,No,Research & Development,4,6586
+47,No,Sales,4,3294
+22,Yes,Research & Development,3,4171
+41,Yes,Research & Development,4,2778
+28,No,Research & Development,3,2377
+39,Yes,Research & Development,1,2404
+27,No,Research & Development,3,2318
+34,No,Research & Development,2,2008
+42,No,Sales,3,6244
+33,No,Research & Development,1,2799
+58,No,Research & Development,2,10552
+31,No,Sales,3,2329
+35,No,Research & Development,4,4014
+49,No,Research & Development,2,7403
+48,No,Research & Development,3,2259
+31,No,Sales,3,6932
+36,No,Research & Development,4,4678
+38,No,Research & Development,1,13582
+32,No,Research & Development,2,2332
+25,Yes,Sales,2,2413
+40,No,Sales,2,9705
+26,No,Sales,1,4294
+41,No,Research & Development,1,4721
+36,No,Research & Development,3,2519
+19,Yes,Sales,2,2121
+20,Yes,Research & Development,1,2973
+31,No,Research & Development,4,5855
+40,No,Research & Development,2,3617
+32,No,Research & Development,1,6725
+36,Yes,Sales,4,10325
+33,No,Research & Development,4,6949
+37,Yes,Sales,3,10609
+45,No,Research & Development,2,4447
+29,No,Sales,4,2157
+35,No,Sales,3,4601
+52,No,Research & Development,4,17099
+58,Yes,Research & Development,3,2479
+53,No,Sales,3,14852
+30,No,Sales,3,7264
+38,No,Sales,4,5666
+35,No,Sales,4,7823
+39,No,Sales,3,7880
+40,Yes,Sales,2,13194
+47,No,Research & Development,3,5067
+36,No,Sales,4,5079
+31,Yes,Research & Development,1,2321
+33,No,Sales,3,17444
+29,Yes,Research & Development,1,2404
+33,No,Research & Development,4,3452
+45,No,Research & Development,4,2270
+50,No,Research & Development,4,17399
+33,No,Research & Development,2,5488
+41,No,Research & Development,3,19419
+27,No,Research & Development,2,2811
+45,No,Research & Development,1,3633
+47,No,Sales,4,4163
+30,Yes,Research & Development,3,2132
+50,No,Research & Development,3,13973
+38,No,Research & Development,3,2684
+46,No,Research & Development,3,10845
+24,No,Research & Development,3,4377
+35,Yes,Research & Development,2,3743
+31,No,Research & Development,1,4148
+18,No,Research & Development,4,1051
+54,No,Research & Development,3,10739
+35,No,Research & Development,3,10388
+30,No,Research & Development,1,11416
+20,Yes,Research & Development,1,2600
+30,Yes,Research & Development,2,2422
+26,No,Research & Development,4,5472
+22,No,Research & Development,1,2451
+48,No,Research & Development,3,4240
+48,No,Research & Development,3,10999
+41,No,Research & Development,3,5003
+39,No,Research & Development,4,12742
+27,No,Research & Development,4,4227
+35,No,Research & Development,4,3917
+42,No,Sales,3,18303
+50,No,Research & Development,4,2380
+59,No,Research & Development,4,13726
+37,Yes,Research & Development,2,4777
+55,No,Research & Development,2,6385
+41,No,Research & Development,3,19973
+38,No,Sales,4,6861
+26,Yes,Sales,1,4969
+52,Yes,Sales,4,19845
+44,No,Sales,4,13320
+50,No,Sales,3,6347
+36,Yes,Research & Development,1,2743
+39,No,Research & Development,1,10880
+33,No,Sales,4,2342
+45,No,Sales,4,17650
+32,No,Research & Development,3,4025
+34,No,Sales,4,9725
+59,No,Sales,4,11904
+45,No,Human Resources,2,2177
+53,No,Sales,2,7525
+36,Yes,Research & Development,3,4834
+26,Yes,Research & Development,1,2042
+34,No,Sales,3,2220
+28,No,Sales,2,1052
+38,No,Research & Development,3,2821
+50,No,Research & Development,3,19237
+37,No,Research & Development,2,4107
+40,No,Sales,1,8396
+26,No,Research & Development,3,2007
+46,No,Research & Development,4,19627
+54,No,Sales,3,10686
+56,No,Research & Development,3,2942
+36,No,Research & Development,4,8858
+55,No,Research & Development,1,16756
+43,No,Sales,4,10798
+20,Yes,Sales,4,2323
+21,Yes,Research & Development,1,1416
+46,No,Research & Development,1,4615
+51,Yes,Research & Development,3,2461
+28,Yes,Research & Development,1,8722
+26,No,Research & Development,1,3955
+30,No,Research & Development,1,9957
+41,No,Research & Development,3,3376
+38,No,Research & Development,3,8823
+40,No,Research & Development,4,10322
+27,No,Research & Development,3,4621
+55,No,Research & Development,2,10976
+28,No,Research & Development,3,3660
+44,Yes,Human Resources,1,10482
+33,No,Research & Development,4,7119
+35,Yes,Sales,1,9582
+33,Yes,Research & Development,3,4508
+28,No,Research & Development,3,2207
+34,No,Research & Development,4,7756
+37,No,Sales,4,6694
+25,Yes,Research & Development,4,3691
+26,Yes,Research & Development,3,2377
+33,Yes,Research & Development,2,2313
+42,No,Research & Development,1,17665
+28,Yes,Research & Development,2,2596
+50,Yes,Sales,3,4728
+33,No,Sales,2,4302
+34,No,Research & Development,4,2979
+48,No,Research & Development,4,16885
+45,No,Sales,3,5593
+52,No,Research & Development,2,10445
+38,No,Sales,3,8740
+29,No,Research & Development,4,2514
+28,No,Research & Development,2,7655
+46,No,Sales,3,17465
+38,No,Sales,2,7351
+43,No,Research & Development,1,10820
+39,Yes,Research & Development,4,12169
+40,No,Research & Development,3,19626
+21,No,Research & Development,2,2070
+39,No,Research & Development,2,6782
+36,No,Research & Development,4,7779
+31,No,Sales,4,2791
+28,No,Research & Development,2,3201
+35,No,Sales,4,4968
+49,No,Sales,2,13120
+34,No,Research & Development,3,4033
+29,No,Research & Development,2,3291
+42,No,Research & Development,4,4272
+29,No,Research & Development,4,5056
+38,No,Human Resources,3,2844
+28,No,Research & Development,3,2703
+18,Yes,Research & Development,3,1904
+33,Yes,Sales,1,8224
+41,No,Research & Development,4,4766
+31,Yes,Research & Development,3,2610
+37,No,Research & Development,4,5731
+27,No,Research & Development,3,2539
+34,No,Sales,3,5714
+35,No,Human Resources,3,4323
+29,Yes,Sales,1,7336
+40,No,Research & Development,3,13499
+42,Yes,Sales,1,13758
+42,No,Sales,1,5155
+35,No,Research & Development,3,2258
+24,No,Research & Development,2,3597
+28,Yes,Research & Development,4,2515
+26,No,Research & Development,4,4420
+30,No,Sales,3,6578
+40,No,Research & Development,4,4422
+35,No,Research & Development,2,10274
+34,No,Research & Development,1,5343
+35,No,Research & Development,4,2376
+43,Yes,Sales,3,5346
+32,No,Sales,1,2827
+56,No,Research & Development,1,19943
+29,No,Research & Development,4,3131
+19,No,Research & Development,1,2552
+45,No,Research & Development,3,4477
+37,No,Research & Development,4,6474
+20,No,Research & Development,3,3033
+44,Yes,Research & Development,3,2936
+53,No,Research & Development,3,18606
+29,No,Research & Development,4,2168
+22,Yes,Research & Development,4,2853
+46,No,Sales,1,17048
+44,No,Research & Development,3,2290
+33,No,Human Resources,3,3600
+41,Yes,Research & Development,1,2107
+30,No,Sales,1,4115
+40,No,Sales,2,4327
+50,No,Research & Development,1,17856
+28,No,Research & Development,1,3196
+46,No,Research & Development,2,19081
+35,No,Sales,1,8966
+24,Yes,Research & Development,2,2210
+33,No,Sales,3,4539
+36,No,Research & Development,3,2741
+30,No,Research & Development,3,3491
+44,No,Research & Development,4,4541
+20,No,Sales,4,2678
+46,No,Research & Development,4,7379
+42,No,Human Resources,1,6272
+60,No,Sales,4,5220
+32,No,Research & Development,2,2743
+32,No,Research & Development,3,4998
+36,No,Research & Development,1,10252
+33,No,Research & Development,4,2781
+40,No,Sales,2,6852
+25,No,Sales,4,4950
+30,No,Research & Development,2,3579
+42,No,Research & Development,1,13191
+35,No,Sales,4,10377
+27,No,Research & Development,1,2235
+54,No,Research & Development,3,10502
+44,No,Research & Development,4,2011
+19,Yes,Research & Development,2,1859
+29,No,Research & Development,4,3760
+54,No,Research & Development,4,17779
+31,No,Research & Development,1,6833
+31,No,Research & Development,1,6812
+59,No,Sales,4,5171
+43,No,Research & Development,4,19740
+49,No,Research & Development,3,18711
+36,No,Research & Development,2,3692
+48,No,Research & Development,2,2559
+27,No,Research & Development,3,2517
+29,No,Research & Development,4,6623
+48,No,Research & Development,4,18265
+29,No,Research & Development,4,16124
+34,No,Research & Development,3,2585
+44,No,Sales,2,18213
+33,No,Sales,3,8380
+19,No,Research & Development,4,2994
+23,No,Research & Development,3,1223
+25,Yes,Sales,4,1118
+26,No,Research & Development,4,2875
+45,Yes,Sales,2,18824
+55,No,Research & Development,2,13577
+21,Yes,Research & Development,3,2625
+46,No,Sales,2,18789
+34,No,Sales,1,4538
+51,No,Sales,2,19847
+59,No,Research & Development,4,10512
+34,No,Research & Development,2,4444
+28,No,Research & Development,3,2154
+44,No,Research & Development,1,19190
+34,No,Human Resources,2,4490
+35,No,Research & Development,3,3506
+42,No,Research & Development,2,2372
+43,No,Sales,4,10231
+36,No,Research & Development,2,5410
+44,Yes,Research & Development,4,7978
+28,No,Research & Development,4,3867
+51,No,Research & Development,3,2838
+30,No,Research & Development,3,4695
+29,Yes,Research & Development,3,3339
+28,No,Research & Development,1,2080
+25,No,Research & Development,2,2096
+32,No,Sales,4,6209
+45,No,Research & Development,2,18061
+39,No,Research & Development,2,17123
+58,No,Research & Development,3,2372
+32,Yes,Research & Development,3,4883
+39,Yes,Research & Development,1,3904
+30,No,Research & Development,4,4627
+36,No,Research & Development,3,7094
+46,No,Human Resources,1,3423
+28,No,Research & Development,4,6674
+50,No,Research & Development,1,16880
+40,Yes,Sales,2,9094
+52,Yes,Sales,2,8446
+30,No,Research & Development,1,11916
+39,No,Research & Development,3,4534
+31,No,Sales,3,9852
+41,No,Sales,2,6151
+31,Yes,Sales,2,2302
+44,Yes,Research & Development,1,2362
+42,No,Research & Development,3,17861
+55,No,Research & Development,3,19187
+56,No,Human Resources,2,19717
+40,No,Research & Development,3,3544
+34,No,Research & Development,4,8500
+40,No,Research & Development,4,4661
+41,No,Sales,1,4103
+35,No,Research & Development,3,4249
+51,No,Human Resources,2,14026
+38,No,Sales,1,6893
+34,No,Sales,1,6125
+25,No,Research & Development,4,3669
+58,Yes,Research & Development,1,10008
+40,No,Research & Development,2,2387
+36,No,Sales,1,4639
+48,No,Research & Development,4,7898
+27,No,Sales,4,2534
+51,No,Research & Development,2,13142
+18,No,Research & Development,4,1611
+35,No,Research & Development,4,5363
+27,No,Sales,4,5071
+55,Yes,Sales,3,13695
+56,No,Research & Development,2,13402
+34,No,Research & Development,3,2029
+40,No,Research & Development,3,6377
+34,No,Research & Development,3,5429
+31,Yes,Sales,4,2785
+35,Yes,Sales,3,4614
+38,No,Research & Development,3,2610
+34,No,Research & Development,4,6687
+28,No,Sales,1,4724
+31,Yes,Research & Development,3,6179
+39,No,Sales,4,6120
+51,No,Sales,2,10596
+41,No,Research & Development,4,5467
+37,No,Research & Development,3,2996
+33,No,Sales,4,9998
+32,No,Sales,2,4078
+39,No,Research & Development,3,10920
+25,No,Sales,3,6232
+52,No,Research & Development,3,13247
+43,No,Research & Development,3,4081
+27,No,Sales,4,5769
+27,Yes,Research & Development,3,2394
+26,No,Research & Development,4,3904
+42,No,Human Resources,1,16799
+52,No,Research & Development,1,2950
+37,No,Research & Development,3,3629
+35,No,Research & Development,4,9362
+25,No,Research & Development,4,3229
+26,No,Research & Development,1,3578
+29,No,Human Resources,1,7988
+49,Yes,Research & Development,1,4284
+29,Yes,Research & Development,4,7553
+54,No,Research & Development,4,17328
+58,No,Research & Development,1,19701
+55,No,Research & Development,4,14732
+36,No,Sales,2,9278
+31,Yes,Sales,3,1359
+30,No,Sales,1,4779
+31,No,Research & Development,2,16422
+34,No,Research & Development,1,2996
+31,Yes,Research & Development,2,1261
+27,No,Research & Development,1,2099
+36,No,Research & Development,4,5810
+36,No,Sales,1,5647
+47,No,Research & Development,4,3420
+25,Yes,Sales,1,4400
+37,No,Research & Development,3,3500
+56,No,Research & Development,1,2066
+47,No,Research & Development,3,17169
+24,No,Sales,3,4162
+32,No,Sales,4,9204
+34,No,Research & Development,2,3294
+41,No,Research & Development,3,2127
+40,No,Research & Development,3,3975
+31,No,Sales,4,10793
+46,Yes,Sales,4,10096
+39,Yes,Research & Development,1,3646
+31,Yes,Research & Development,2,7446
+45,No,Research & Development,1,10851
+31,No,Human Resources,2,2109
+31,Yes,Research & Development,4,3722
+45,No,Research & Development,4,9380
+48,No,Sales,1,5486
+34,Yes,Human Resources,3,2742
+40,No,Research & Development,2,13757
+28,No,Sales,1,8463
+44,No,Research & Development,3,3162
+53,No,Research & Development,2,16598
+49,No,Research & Development,3,6651
+40,No,Research & Development,3,2345
+44,No,Research & Development,2,3420
+33,No,Sales,1,4373
+34,No,Sales,1,4759
+30,No,Sales,3,5301
+42,No,Research & Development,4,3673
+44,No,Sales,3,4768
+30,No,Research & Development,3,1274
+57,No,Research & Development,3,4900
+49,No,Research & Development,2,10466
+34,No,Research & Development,1,17007
+28,Yes,Sales,3,2909
+29,Yes,Sales,2,5765
+34,Yes,Sales,2,4599
+35,No,Sales,3,2404
+24,Yes,Research & Development,1,3172
+24,No,Sales,2,2033
+44,No,Research & Development,3,10209
+29,No,Sales,3,8620
+30,No,Human Resources,3,2064
+55,No,Research & Development,3,4035
+33,No,Research & Development,2,3838
+47,No,Sales,3,4591
+28,Yes,Research & Development,1,2561
+28,No,Research & Development,3,1563
+28,No,Sales,1,4898
+49,No,Research & Development,1,4789
+29,No,Research & Development,2,3180
+28,No,Research & Development,2,6549
+33,No,Research & Development,3,6388
+32,No,Research & Development,4,11244
+54,No,Research & Development,4,16032
+29,Yes,Research & Development,1,2362
+44,No,Research & Development,1,16328
+39,No,Research & Development,2,8376
+46,No,Sales,2,16606
+35,No,Research & Development,2,8606
+23,No,Research & Development,3,2272
+40,Yes,Research & Development,1,2018
+34,No,Sales,3,7083
+31,Yes,Research & Development,3,4084
+50,No,Research & Development,4,14411
+34,No,Sales,3,2308
+42,No,Research & Development,2,4841
+37,No,Research & Development,4,4285
+29,No,Research & Development,1,9715
+33,No,Research & Development,2,4320
+45,No,Research & Development,4,2132
+42,No,Research & Development,4,10124
+40,No,Sales,1,5473
+33,No,Research & Development,3,5207
+40,No,Human Resources,4,16437
+24,No,Research & Development,1,2296
+40,No,Research & Development,4,4069
+45,No,Research & Development,2,7441
+35,No,Sales,3,2430
+32,No,Research & Development,2,5878
+36,No,Sales,4,2644
+48,No,Sales,3,6439
+29,No,Research & Development,3,2451
+33,No,Sales,1,6392
+30,Yes,Sales,1,9714
+38,No,Human Resources,3,6077
+35,No,Research & Development,1,2450
+30,No,Sales,2,9250
+35,Yes,Research & Development,1,2074
+53,Yes,Research & Development,4,10169
+38,Yes,Research & Development,2,4855
+32,No,Research & Development,1,4087
+48,No,Research & Development,1,2367
+34,No,Research & Development,4,2972
+55,No,Sales,4,19586
+34,No,Research & Development,4,5484
+26,No,Research & Development,4,2061
+38,No,Sales,2,9924
+38,No,Sales,2,4198
+36,No,Sales,3,6815
+29,No,Research & Development,1,4723
+35,No,Research & Development,3,6142
+39,No,Sales,3,8237
+29,No,Research & Development,4,8853
+50,No,Sales,3,19331
+23,No,Research & Development,3,2073
+36,No,Research & Development,1,5562
+42,No,Research & Development,4,19613
+35,No,Research & Development,3,3407
+34,No,Research & Development,3,5063
+40,No,Sales,1,4639
+43,No,Research & Development,2,4876
+35,No,Research & Development,4,2690
+46,No,Sales,1,17567
+28,Yes,Research & Development,2,2408
+22,No,Research & Development,3,2814
+50,No,Research & Development,3,11245
+32,No,Research & Development,4,3312
+44,No,Research & Development,4,19049
+30,No,Research & Development,2,2141
+45,No,Research & Development,1,5769
+45,No,Sales,1,4385
+31,No,Sales,1,5332
+36,No,Research & Development,3,4663
+34,No,Research & Development,4,4724
+49,No,Research & Development,1,3211
+39,No,Research & Development,1,5377
+27,No,Research & Development,1,4066
+35,No,Research & Development,1,5208
+28,No,Research & Development,1,4877
+21,No,Research & Development,4,3117
+18,Yes,Sales,4,1569
+47,No,Human Resources,3,19658
+39,No,Research & Development,3,3069
+40,No,Research & Development,3,10435
+35,No,Research & Development,3,4148
+37,No,Research & Development,3,5768
+39,No,Research & Development,3,5042
+45,No,Research & Development,4,5770
+38,No,Research & Development,3,7756
+35,Yes,Sales,1,10306
+37,No,Research & Development,2,3936
+40,No,Research & Development,4,7945
+44,No,Human Resources,4,5743
+48,No,Research & Development,4,15202
+35,Yes,Sales,4,5440
+24,No,Research & Development,4,3760
+27,No,Research & Development,3,3517
+27,No,Research & Development,4,2580
+40,Yes,Research & Development,1,2166
+29,No,Sales,3,5869
+36,No,Research & Development,1,8008
+25,No,Research & Development,3,5206
+39,No,Research & Development,2,5295
+49,No,Research & Development,2,16413
+50,No,Research & Development,1,13269
+20,No,Sales,3,2783
+34,No,Research & Development,2,5433
+36,No,Research & Development,2,2013
+49,No,Research & Development,3,13966
+36,No,Research & Development,3,4374
+36,No,Research & Development,1,6842
+54,No,Research & Development,3,17426
+43,No,Research & Development,3,17603
+35,Yes,Sales,4,4581
+38,No,Research & Development,4,4735
+29,No,Sales,2,4187
+33,No,Sales,4,5505
+32,No,Research & Development,2,5470
+31,No,Sales,4,5476
+49,No,Research & Development,1,2587
+38,No,Research & Development,2,2440
+47,No,Sales,2,15972
+49,No,Research & Development,3,15379
+41,No,Sales,3,7082
+20,No,Sales,1,2728
+33,No,Sales,4,5368
+36,No,Research & Development,3,5347
+44,No,Human Resources,4,3195
+23,Yes,Research & Development,3,3989
+38,No,Research & Development,3,3306
+53,No,Research & Development,4,7005
+48,Yes,Sales,3,2655
+32,Yes,Research & Development,2,1393
+26,No,Research & Development,4,2570
+55,No,Research & Development,2,3537
+34,No,Research & Development,4,3986
+60,No,Research & Development,4,10883
+33,No,Research & Development,2,2028
+37,No,Sales,4,9525
+34,No,Research & Development,4,2929
+23,Yes,Sales,4,2275
+44,No,Research & Development,4,7879
+35,No,Research & Development,4,4930
+43,No,Sales,4,7847
+24,No,Research & Development,3,4401
+41,No,Sales,3,9241
+29,No,Research & Development,3,2974
+36,No,Sales,4,4502
+45,No,Research & Development,3,10748
+24,Yes,Human Resources,3,1555
+47,Yes,Sales,3,12936
+26,No,Research & Development,3,2305
+45,No,Research & Development,2,16704
+32,No,Research & Development,3,3433
+31,No,Research & Development,3,3477
+41,No,Human Resources,2,6430
+40,No,Research & Development,1,6516
+24,No,Research & Development,1,3907
+46,No,Research & Development,2,5562
+35,No,Research & Development,3,6883
+30,No,Research & Development,4,2862
+47,No,Sales,2,4978
+46,No,Sales,4,10368
+36,Yes,Sales,1,6134
+32,Yes,Sales,2,6735
+23,No,Research & Development,2,3295
+31,No,Research & Development,4,5238
+39,No,Research & Development,4,6472
+32,No,Sales,3,9610
+40,No,Sales,2,19833
+45,No,Human Resources,3,9756
+30,No,Research & Development,1,4968
+24,No,Human Resources,4,2145
+30,Yes,Human Resources,4,2180
+31,No,Sales,3,8346
+27,No,Research & Development,4,3445
+29,Yes,Sales,2,2760
+29,No,Research & Development,3,6294
+30,No,Sales,1,7140
+34,No,Research & Development,4,2932
+33,No,Sales,2,5147
+49,No,Sales,4,4507
+33,Yes,Sales,1,8564
+38,No,Research & Development,2,2468
+31,Yes,Sales,3,8161
+29,No,Research & Development,1,2109
+30,No,Research & Development,3,5294
+32,No,Research & Development,2,2718
+38,No,Research & Development,4,5811
+43,Yes,Research & Development,3,2437
+42,No,Research & Development,2,2766
+55,No,Research & Development,1,19038
+33,No,Research & Development,2,3055
+41,No,Research & Development,1,2289
+34,No,Sales,3,4001
+53,No,Research & Development,3,12965
+43,No,Human Resources,4,3539
+34,No,Sales,4,6029
+21,Yes,Sales,2,2679
+38,No,Research & Development,3,3702
+22,Yes,Research & Development,1,2398
+31,No,Sales,4,5468
+51,No,Research & Development,3,13116
+37,No,Sales,2,4189
+46,No,Research & Development,4,19328
+36,No,Research & Development,1,8321
+44,Yes,Research & Development,2,2342
+37,No,Human Resources,2,4071
+35,Yes,Sales,4,5813
+33,No,Research & Development,1,3143
+28,No,Research & Development,4,2044
+39,No,Research & Development,3,13464
+46,No,Sales,2,7991
+40,No,Research & Development,1,3377
+42,No,Research & Development,1,5538
+35,No,Research & Development,4,5762
+38,No,Human Resources,2,2592
+34,Yes,Research & Development,1,5346
+37,Yes,Research & Development,1,4213
+39,No,Sales,4,4127
+43,No,Research & Development,3,2438
+41,No,Research & Development,2,6870
+41,No,Sales,3,10447
+30,No,Research & Development,3,9667
+26,Yes,Human Resources,2,2148
+46,Yes,Research & Development,2,8926
+40,No,Research & Development,4,6513
+34,No,Sales,3,6799
+58,No,Sales,2,16291
+35,No,Research & Development,3,2705
+47,No,Research & Development,2,10333
+40,No,Research & Development,1,4448
+54,No,Research & Development,4,6854
+31,No,Sales,1,9637
+28,No,Research & Development,1,3591
+38,No,Sales,4,5405
+26,No,Sales,4,4684
+58,No,Research & Development,3,15787
+18,No,Research & Development,3,1514
+31,Yes,Human Resources,1,2956
+29,Yes,Human Resources,1,2335
+45,No,Sales,3,5154
+36,No,Research & Development,2,6962
+43,No,Sales,4,5675
+27,No,Research & Development,4,2379
+29,No,Research & Development,4,3812
+32,No,Sales,4,4648
+42,No,Research & Development,3,2936
+47,No,Research & Development,3,2105
+46,No,Research & Development,4,8578
+28,No,Human Resources,4,2706
+29,No,Research & Development,3,6384
+42,No,Research & Development,3,3968
+32,Yes,Sales,2,9907
+46,No,Sales,1,13225
+27,No,Sales,3,3540
+29,No,Human Resources,2,2804
+43,No,Research & Development,3,19392
+48,No,Research & Development,2,19665
+29,Yes,Research & Development,4,2439
+46,Yes,Sales,2,7314
+27,No,Research & Development,1,4774
+39,No,Research & Development,4,3902
+55,No,Research & Development,4,2662
+28,No,Sales,2,2856
+30,Yes,Sales,4,1081
+22,Yes,Research & Development,2,2472
+36,No,Sales,3,5673
+31,No,Research & Development,3,4197
+34,No,Sales,4,9713
+29,No,Research & Development,1,2062
+37,No,Research & Development,1,4284
+35,No,Research & Development,2,4788
+45,No,Research & Development,4,5906
+36,No,Human Resources,4,3886
+40,No,Research & Development,1,16823
+26,No,Research & Development,3,2933
+27,No,Sales,3,6500
+48,No,Research & Development,4,17174
+44,No,Research & Development,1,5033
+34,Yes,Research & Development,1,2307
+56,Yes,Research & Development,4,2587
+36,No,Sales,2,5507
+41,No,Sales,2,4393
+42,No,Research & Development,1,13348
+31,No,Sales,4,6583
+34,No,Sales,4,8103
+31,No,Research & Development,3,3978
+26,No,Research & Development,4,2544
+45,No,Research & Development,3,5399
+33,No,Sales,3,5487
+28,No,Sales,4,6834
+29,Yes,Sales,1,1091
+39,No,Sales,3,5736
+27,No,Research & Development,2,2226
+34,No,Research & Development,4,5747
+28,Yes,Sales,3,9854
+47,No,Research & Development,2,5467
+56,No,Sales,1,5380
+39,No,Research & Development,1,5151
+38,No,Research & Development,2,2133
+58,No,Sales,4,17875
+32,Yes,Research & Development,3,2432
+38,No,Research & Development,4,4771
+49,No,Research & Development,4,19161
+42,No,Sales,4,5087
+27,Yes,Human Resources,2,2863
+35,No,Sales,1,5561
+28,No,Research & Development,3,2144
+31,No,Research & Development,1,3065
+36,No,Research & Development,2,2810
+34,No,Sales,4,9888
+34,No,Sales,3,8628
+26,No,Research & Development,1,2867
+29,No,Research & Development,1,5373
+32,No,Research & Development,4,6667
+31,No,Research & Development,1,5003
+28,Yes,Research & Development,4,2367
+38,No,Sales,1,2858
+35,No,Sales,4,5204
+27,No,Sales,4,4105
+32,No,Research & Development,4,9679
+31,Yes,Sales,4,5617
+53,Yes,Sales,1,10448
+54,No,Research & Development,3,2897
+33,No,Research & Development,3,5968
+43,No,Research & Development,3,7510
+38,No,Human Resources,2,2991
+55,No,Human Resources,2,19636
+31,No,Research & Development,4,1129
+39,No,Sales,1,13341
+42,No,Research & Development,3,4332
+31,No,Research & Development,3,11031
+54,No,Research & Development,1,4440
+24,No,Research & Development,3,4617
+23,No,Research & Development,4,2647
+40,No,Research & Development,3,6323
+40,No,Sales,2,5677
+25,No,Human Resources,2,2187
+30,No,Research & Development,2,3748
+25,No,Research & Development,3,3977
+47,No,Research & Development,3,8633
+33,No,Research & Development,3,2008
+38,No,Sales,2,4440
+31,No,Sales,3,3067
+38,No,Research & Development,3,5321
+42,No,Research & Development,1,5410
+41,No,Research & Development,4,2782
+47,No,Research & Development,2,11957
+35,No,Research & Development,3,2660
+22,No,Research & Development,3,3375
+35,No,Research & Development,3,5098
+33,No,Research & Development,4,4878
+32,No,Research & Development,2,2837
+40,No,Research & Development,4,2406
+32,No,Sales,2,2269
+39,No,Research & Development,4,4108
+38,No,Research & Development,3,13206
+32,No,Sales,4,10422
+37,No,Research & Development,4,13744
+25,No,Sales,3,4907
+52,No,Sales,4,3482
+44,No,Research & Development,4,2436
+21,No,Sales,1,2380
+39,No,Research & Development,4,19431
+23,Yes,Sales,1,1790
+36,No,Sales,4,7644
+36,No,Research & Development,2,5131
+56,No,Research & Development,3,6306
+29,Yes,Research & Development,4,4787
+42,No,Research & Development,3,18880
+56,Yes,Research & Development,3,2339
+41,No,Research & Development,2,13570
+34,No,Sales,3,6712
+36,No,Sales,4,5406
+41,No,Sales,2,8938
+32,No,Research & Development,1,2439
+35,No,Human Resources,4,8837
+38,No,Sales,4,5343
+50,Yes,Sales,3,6728
+36,No,Sales,4,6652
+45,No,Sales,3,4850
+40,No,Research & Development,3,2809
+35,No,Research & Development,3,5689
+40,No,Research & Development,3,2001
+35,No,Research & Development,4,2977
+29,No,Research & Development,2,4025
+29,No,Research & Development,1,3785
+50,Yes,Sales,1,10854
+39,No,Sales,4,12031
+31,No,Research & Development,1,9936
+26,No,Sales,3,2966
+36,No,Research & Development,4,2571
+39,No,Research & Development,1,9991
+27,No,Research & Development,2,6142
+49,No,Sales,2,5390
+34,No,Research & Development,3,4404
